@@ -1,5 +1,4 @@
 # For Python 3.13 compatibility
-requirements.txt:
 Flask==3.0.3
 Flask-CORS==4.0.1
 Flask-SocketIO==5.3.6
