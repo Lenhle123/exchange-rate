@@ -1,5 +1,5 @@
 # For Python 3.13 compatibility
-runtime.txt: python-3.13.4
+
 
 requirements.txt:
 Flask==3.0.3
