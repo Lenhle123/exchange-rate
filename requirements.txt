@@ -18,3 +18,27 @@ yfinance==0.2.18
 textblob==0.17.1
 schedule==1.2.0
 
+# --- Core server ---
+Flask==3.0.3
+flask-cors==4.0.1
+Flask-SocketIO==5.3.6
+eventlet==0.36.1
+gunicorn==22.0.0
+
+# --- ML & finance ---
+numpy==1.26.4
+pandas==2.2.2
+yfinance==0.2.40
+textblob==0.18.0.post0
+
+# --- Database ---
+SQLAlchemy==2.0.32
+Flask-SQLAlchemy==3.1.1
+
+# --- Utils ---
+requests==2.32.3
+python-dotenv==1.0.1
+
+# --- Build helpers (important for Render!) ---
+setuptools>=65.0.0
+wheel>=0.40.0
